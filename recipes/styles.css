@@ -1,0 +1,30 @@
+h1{
+    color:orangered;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+p{
+    color: chocolate;
+    font-size: 26px;
+    font-family: serif;
+    margin: 5px 0px;
+}
+
+ul{
+    color: blue;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+li{
+    margin: 10px 0px;
+}
+
+img{
+    height: 300px;
+    width: 250px;
+}
